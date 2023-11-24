@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatoş !</h1>
-<h3 align="center">A software QA engineer from Turkey</h3>
+<h3 align="center">A Software Developer In Test</h3>
 
 - 🔎 I’m currently working on **test automation**
 
